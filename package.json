@@ -1,0 +1,28 @@
+{
+  "name": "strophejs-plugin-vcard",
+  "version": "0.0.1",
+  "description": "A strophe.js plugin which implements XEP-0054 VCard-temp",
+  "main": "strophe.vcard.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strophe/strophejs-plugin-vcard.git"
+  },
+  "keywords": [
+    "xmpp",
+    "vcard",
+    "strophe.js",
+    "strophe"
+  ],
+  "author": "The strophe plugin developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strophe/strophejs-plugin-vcard/issues"
+  },
+  "homepage": "https://github.com/strophe/strophejs-plugin-vcard#readme"
+}
